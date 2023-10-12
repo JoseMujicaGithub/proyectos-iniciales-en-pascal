@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Dell\OneDrive\Escritorio\programacion\Udemy\Programacion profesional desde cero\Lazarus\Proyectos Pascal\lib\x86_64-win64&quot; &quot;-FuC:\Users\Dell\OneDrive\Escritorio\programacion\Udemy\Programacion profesional desde cero\Lazarus\Proyectos Pascal\&quot; &quot;-FUC:\Users\Dell\OneDrive\Escritorio\programacion\Udemy\Programacion profesional desde cero\Lazarus\Proyectos Pascal\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Dell\OneDrive\Escritorio\programacion\Udemy\Programacion profesional desde cero\Lazarus\Proyectos Pascal\&quot; &quot;-oC:\Users\Dell\OneDrive\Escritorio\programacion\Udemy\Programacion profesional desde cero\Lazarus\Proyectos Pascal\Proyecto_MasterMind_1_0.exe&quot; Proyecto_MasterMind_1_0.lpr"/>
+</CONFIG>

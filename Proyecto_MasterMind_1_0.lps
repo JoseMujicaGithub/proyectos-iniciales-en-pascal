@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="31"/>
+        <CursorPos X="56" Y="52"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\Downloads\Proyecto_MasterMind_1_0.lpr"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\Downloads\Proyecto_MasterMind_1_0 (1).lpr"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="103"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="80" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="97" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="99" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="97" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="99" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="101" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="102" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="97" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="99" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="97" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="99" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="97" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="106" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="107" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="109" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="111" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="107" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="109" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="107" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="109" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="111" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="107" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="109" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="111" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="107" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="115" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="118" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="54" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="56" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="Proyecto_MasterMind_1_0.lpr"/>
+        <Caret Line="120" Column="24" TopLine="100"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="letra"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_pensador"/>
+      </Item>
+      <Item>
+        <Expression Value="cont_rg"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_adivinador"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_bn"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_rg"/>
+      </Item>
+      <Item>
+        <Expression Value="cont_bn"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

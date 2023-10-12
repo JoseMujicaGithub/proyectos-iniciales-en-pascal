@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="89"/>
+        <CursorPos X="27" Y="100"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\Downloads\Master_Mind_2_0.lpr"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="97"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="94" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="100" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="94" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="100" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="96" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="98" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="Master_Mind_2_0.lpr"/>
+        <Caret Line="103" TopLine="80"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="letra"/>
+      </Item>
+      <Item>
+        <Expression Value="i"/>
+      </Item>
+      <Item>
+        <Expression Value="j"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_pensador"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_adivinador"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_rg"/>
+      </Item>
+      <Item>
+        <Expression Value="letras"/>
+      </Item>
+      <Item>
+        <Expression Value="arreglo_bn"/>
+      </Item>
+      <Item>
+        <Expression Value="cont_rg"/>
+      </Item>
+      <Item>
+        <Expression Value="cont_bn"/>
+      </Item>
+      <Item>
+        <Expression Value="letra1"/>
+      </Item>
+      <Item>
+        <Expression Value="letra2"/>
+      </Item>
+      <Item>
+        <Expression Value="letra3"/>
+      </Item>
+      <Item>
+        <Expression Value="letra4"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
